@@ -103,6 +103,7 @@ Supabase welcomes various types of contributions:
 - **Ask questions** - Use the issue comments, [Discord](https://discord.supabase.com), or [Discussions](https://github.com/supabase/supabase/discussions) if you need help
 - **Check existing PRs** - Make sure someone else hasn't already submitted a fix
 - **Read the code** - Spend time understanding the existing patterns and conventions
+
 ## Issues
 
 If you find a bug, please create an Issue and we’ll triage it.
